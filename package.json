@@ -1,0 +1,26 @@
+{
+  "name": "test_custom_npm_package",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeyddZhang/test_custom_npm_package.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeyddZhang/test_custom_npm_package/issues"
+  },
+  "homepage": "https://github.com/JoeyddZhang/test_custom_npm_package#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
